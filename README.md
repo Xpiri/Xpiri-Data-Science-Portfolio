@@ -4,7 +4,7 @@ Welcome to my portfolio of data science projects! I finally decided to post here
 
 Everyone loves well-made plots! At least I do, that's why every project on this overview page has its own data visualization highlight.
 
-All the different datasets used for these projects are properly documented both in the respective section of this readme file and inside the notebooks themselves. 
+All the different **datasets** used for these projects are **properly documented** both in the respective section of this readme file and inside the notebooks themselves. 
 
 The necessary packages can be downloaded via the requirements.txt file. I made sure not to use any (soon-to-be) deprecated functions, so hopefully there will be no reproducibility issues! 
 
@@ -24,9 +24,11 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Data: SMS spam collection dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 * **Data Visualization and Analyses**
-  * NLP: [Sentiment analysis of twitter data]() about Ukraine and Russia over Dec. 2021 - Mar. 2022
+  * NLP and time series: [Sentiment analysis of twitter data]() about Ukraine and Russia over Dec. 2021 - Mar. 2022
     * Time series analysis of the evolution of tweets sentiment before and after the Russian invasion of Ukraine
-    * Data: see the twitter-scraper notebook! 
-
-If you're interested in any of the above projects, shoot me an email at *federicopanero15@gmail.com* ! 
-
+    * Data: see the twitter-scraper notebook! Note: only a subset of the total tweets (2500/day) were used!
+  * NLP and data visualization: [A map of tweets]() about Ukraine
+    * Heatmap of tweets mentioning Ukraine before and after the Russian invasion 
+    * Data: see the twitter-scraper notebook!
+ 
+If you're interested in knowing more about any of the above projects, **shoot me an email** at *federicopanero15@gmail.com* ! 
