@@ -4,7 +4,7 @@ Welcome to my portfolio of data science projects! I finally decided to post here
 
 
 
-:eyes: Everyone loves well-made plots! At least I do, that's why every project on this overview page has its own data visualization highlight.
+Everyone loves well-made plots! At least I do, that's why every project on this overview page has its own data visualization :eyes: highlight.
 
 All the different **datasets** used for these projects are **properly documented** both in the respective section of this readme file and inside the notebooks themselves. 
 
