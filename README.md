@@ -29,7 +29,12 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
   * NLP and time series: :chart_with_downwards_trend: [Sentiment analysis of twitter data](https://github.com/Xpiri/Xpiri-Data-Science-Portfolio/tree/main/Sentiment%20analysis%20of%20twitter%20data) about Ukraine and Russia over Dec. 2021 - Mar. 2022
     * Time series analysis of the evolution of tweets sentiment before and after the Russian invasion of Ukraine
     * Data: see the twitter-scraper notebook! Note: only a subset of the total tweets (2500/day) were used!
-  * NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
+ 
+<p align="center">
+  <img src="/Plots/sent_rus_ukr_plot.png" width="800">
+</p>
+ 
+ * NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
     * Heatmap of tweets mentioning Ukraine before and after the Russian invasion 
     * Data: see the twitter-scraper notebook!
  
