@@ -10,7 +10,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
 
 # Contents 
 
-* Machine and Deep Learning projects
+* **Machine and Deep Learning projects**
 
   * NLP: [Fake news detection]() model with NN% accuracy
     * Exploratory data analysis
@@ -23,7 +23,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Sequential LSTM and GRU models
     * Data: SMS spam collection dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
-* Analyses
+* **Analyses**
   * NLP: [Sentiment analysis of twitter data]() about Ukraine and Russia over Dec. 2021 - Mar. 2022
     * Time series analysis of the evolution of tweets sentiment before and after the Russian invasion of Ukraine
     * Data: see the twitter-scraper notebook! 
