@@ -26,7 +26,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Data: SMS spam collection dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 * :bar_chart: **Data Visualization and Analyses**
-  * NLP and time series: :chart_with_downwards_trend: [Sentiment analysis of twitter data](/Sentiment analysis of twitter data) about Ukraine and Russia over Dec. 2021 - Mar. 2022
+  * NLP and time series: :chart_with_downwards_trend: [Sentiment analysis of twitter data](https://github.com/Xpiri/Xpiri-Data-Science-Portfolio/tree/main/Sentiment%20analysis%20of%20twitter%20data) about Ukraine and Russia over Dec. 2021 - Mar. 2022
     * Time series analysis of the evolution of tweets sentiment before and after the Russian invasion of Ukraine
     * Data: see the twitter-scraper notebook! Note: only a subset of the total tweets (2500/day) were used!
   * NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
