@@ -14,12 +14,12 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
 
 * :computer: **Machine and Deep Learning projects**
 
-  * NLP: :newspaper: [Fake news detection]() model with NN% accuracy
+  * (Coming soon) NLP: :newspaper: [Fake news detection]() model with NN% accuracy
     * Exploratory data analysis
     * Model built with tensorflow's functional API
     * Joint modeling of text, categorical and continuous features with LSTM, GRU and BERT 
     * Data: fake news competition (https://www.kaggle.com/competitions/fake-news/data)
-  * NLP: :e-mail: [Spam detection]() with NN% accuracy
+  * (Coming soon) NLP: :e-mail: [Spam detection]() with NN% accuracy
     * Exploratory data analysis 
     * Baseline ML methods (Naive Bayes, SVM)
     * Sequential LSTM and GRU models
@@ -34,7 +34,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
   <img src="/Plots/sent_rus_ukr_plot.png" width="800">
 </p>
  
- * NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
+ * (Coming soon) NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
     * Heatmap of tweets mentioning Ukraine before and after the Russian invasion 
     * Data: see the twitter-scraper notebook!
  
