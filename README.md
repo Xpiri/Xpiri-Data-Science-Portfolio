@@ -24,6 +24,9 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Baseline ML methods (Naive Bayes, SVM)
     * Sequential LSTM and GRU models
     * Data: SMS spam collection dataset(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+<p align="center">
+  <img src="/Plots/spam_cm_lstm.png" width="400">
+</p>
 
 * :bar_chart: **Data Visualization and Analyses**
   * NLP and time series: :chart_with_downwards_trend: [Sentiment analysis of twitter data](https://github.com/Xpiri/Xpiri-Data-Science-Portfolio/tree/main/Sentiment%20analysis%20of%20twitter%20data) about Ukraine and Russia over Dec. 2021 - Mar. 2022
