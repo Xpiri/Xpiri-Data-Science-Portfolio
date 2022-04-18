@@ -19,7 +19,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Model built with tensorflow's functional API
     * Joint modeling of text, categorical and continuous features with LSTM, GRU and BERT 
     * Data: fake news competition (https://www.kaggle.com/competitions/fake-news/data)
-  * (Coming soon) NLP: :e-mail: [Spam detection]() with NN% accuracy
+  * NLP: :e-mail: [Spam detection](SMS_spam_classification) with 98% accuracy
     * Exploratory data analysis 
     * Baseline ML methods (Naive Bayes, SVM)
     * Sequential LSTM and GRU models
