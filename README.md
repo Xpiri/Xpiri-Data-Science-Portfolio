@@ -14,7 +14,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
 
 * :computer: **Machine and Deep Learning projects**
 
-  * (Coming soon) NLP: :newspaper: [Fake news detection]() model with NN% accuracy
+  * (Coming April 21st) NLP: :newspaper: [Fake news detection]() model with NN% accuracy
     * Exploratory data analysis
     * Model built with tensorflow's functional API
     * Joint modeling of text, categorical and continuous features with LSTM, GRU and BERT 
@@ -37,7 +37,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
   <img src="/Plots/sent_rus_ukr_plot.png" width="800">
 </p>
  
- * (Coming soon) NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
+ * (Coming April 23rd) NLP and data visualization: :world_map: [A map of tweets]() about Ukraine
     * Heatmap of tweets mentioning Ukraine before and after the Russian invasion 
     * Data: see the twitter-scraper notebook!
  
