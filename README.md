@@ -38,7 +38,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
   <img src="/Plots/sent_rus_ukr_plot.png" width="800">
 </p>
  
- * (Coming April 23rd) NLP and data visualization: :world_map: [A map of tweets](Map_of_Ukraine_tweets) about Ukraine
+ * Data visualization: :world_map: [A map of tweets](Map_of_Ukraine_tweets) about Ukraine
     * Maps of tweets mentioning Ukraine before and after the Russian invasion 
     * Data: see the twitter-scraper notebook!
  <p align="center">
