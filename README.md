@@ -14,12 +14,17 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
 
 * :computer: **Machine and Deep Learning projects**
 
-  * (Coming April 21st) NLP: :newspaper: [Fake news detection]() model with NN% accuracy
+  * NLP: :newspaper: [Fake news detection]() model with ~99% accuracy
     * Exploratory data analysis
     * Model built with tensorflow's functional API
-    * Joint modeling of text (GRU) and categorical features 
+    * Joint modeling of text (GRU, BERT) and categorical features 
     * Transfer learning: fine-tuning a pre-trained BERT model from the hugging face library
     * Data: fake news competition (https://www.kaggle.com/competitions/fake-news/data)
+
+<p align="center">
+  <img src="/Plots/fn_model.png" width="800">
+</p>
+
   * NLP: :e-mail: [Spam detection](SMS_spam_classification) with 98% accuracy
     * Exploratory data analysis 
     * Baseline ML methods (Naive Bayes, SVM)
