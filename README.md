@@ -14,7 +14,7 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
 
 * :computer: **Machine and Deep Learning projects**
 
-  * NLP: :newspaper: [Fake news detection]() model with ~99% accuracy
+  * NLP: :newspaper: [Fake news detection](FakeNewsClassification) model with ~99% accuracy
     * Exploratory data analysis
     * Model built with tensorflow's functional API
     * Joint modeling of text (GRU, BERT) and categorical features 
