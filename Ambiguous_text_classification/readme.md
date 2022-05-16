@@ -8,6 +8,6 @@ This essentially means identifying whenever an user query requires clarification
 - Step 2: How to generate the clarifying questions? 
 Once the system has decided that it should ask a clarifying question, the system should pick the best one for the topic of interest.
 
-The notebook *clariq_RQ1.ipynb* aims at tackling the first step by fine-tuning a RoBERTa transformer on the clariQ test set. 
+The notebook *clariq_RQ1.ipynb* aims at tackling the first step by fine-tuning a RoBERTa transformer on the clariQ test set. This script only needs some finishing touches (slightly improving the model's performance).
 
 The notebook for step 2 is still a work-in-progress that I hope to be able to release soon! 
