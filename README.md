@@ -54,4 +54,5 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
  <p align="center">
   <img src="/Plots/tweet_map.png" width="1000">
 </p>
-:e-mail: If you're interested in knowing more about any of the above projects, **shoot me an email** at *federicopanero15@gmail.com* ! 
+
+:e-mail: If you're interested in knowing more about any of the above projects, shoot me an email at *federicopanero15@gmail.com* ! 
