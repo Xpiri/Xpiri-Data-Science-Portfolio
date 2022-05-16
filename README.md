@@ -18,12 +18,17 @@ The necessary packages can be downloaded via the requirements.txt file. I made s
     * Exploratory data analysis
     * Model built with tensorflow's functional API
     * Joint modeling of text (GRU, BERT) and categorical features 
-    * Transfer learning: fine-tuning a pre-trained BERT model from the hugging face library
+    * Transfer learning: fine-tuning a pre-trained BERT model from the transformers library
     * Data: fake news competition (https://www.kaggle.com/competitions/fake-news/data)
 
 <p align="center">
   <img src="/Plots/fn_model.png" width="800">
 </p>
+
+  * NLP: :grey_question: [Identifying ambiguous questions](Ambiguous_text_classification) 
+    * Transformers: selection of the best transformer architecture for this task (BERT, BART, RoBERTa, Electra)
+    * Transfer learning: fine-tuning a pre-trained RoBERTa model from the transformers library
+    * Data: ClariQ from the ConvAI3 competition, more info at: https://github.com/aliannejadi/ClariQ and http://convai.io/
 
   * NLP: :e-mail: [Spam detection](SMS_spam_classification) with 98% accuracy
     * Exploratory data analysis 
